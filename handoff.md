@@ -181,3 +181,4 @@ The following plugins will be added once the website migrates onto the productio
 - Google Tag Manager
 - LiteSpeed Cache
 - WordFence
+- Instagram Feed - requires relinking the instagram account
